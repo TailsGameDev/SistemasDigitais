@@ -1,2 +1,2 @@
 # sistemasdigitais
-repositorio para auxilio na disciplina de sistemas digitais UFSC
+Repositorio para auxilio na disciplina de Sistemas Digitais UFSC
